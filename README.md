@@ -1,1 +1,1 @@
-SPring Boot - Hello World Application with Gradle
+Spring Boot - Hello World Application with Gradle
